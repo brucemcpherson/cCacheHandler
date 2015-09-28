@@ -1,5 +1,5 @@
 # Google Apps Script Project: cCacheHandler
-This repo (cCacheHandler) was automatically updated on 15 September 2015 11:49:13 BST by GasGit
+This repo (cCacheHandler) was automatically updated on 28 September 2015 17:44:14 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cCacheHandler
@@ -20,8 +20,6 @@ cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUsefu
 --- | --- | --- | --- | --- | --- 
 cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
